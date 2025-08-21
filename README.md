@@ -8,20 +8,6 @@
 
 ---
 
-## 📷 Screenshots / Demo
-> (Add your own GIFs/screenshots here)  
-
-- *Main App Window*  
-  ![screenshot-main](docs/screenshot-main.png)  
-
-- *Select folders*  
-  ![screenshot-folders](docs/screenshot-folders.png)  
-
-- *Result in Output Folder*  
-  ![screenshot-output](docs/screenshot-output.png)  
-
----
-
 ## ✨ Features
 - 🔄 Automatically pairs *photos & videos* by filename  
 - 📂 Recursively scans subfolders  
@@ -72,4 +58,5 @@ TQtJAPn2Bsr8CZLnVBjDMnqWgyUzrwphjg
 
 ## 📚 Related Tools
 - [Google-Photos-Media-JSON-Merger](https://github.com/0XJOEX0/Google-Photos-Media-JSON-Merger)  
+
 - [Media-Sorter-Pro-Plus](https://github.com/0XJOEX0/media-sorter-pro-plus)
