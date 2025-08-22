@@ -61,35 +61,46 @@ TQtJAPn2Bsr8CZLnVBjDMnqWgyUzrwphjg
 
 - [Media-Sorter-Pro-Plus](https://github.com/0XJOEX0/media-sorter-pro-plus)
 -----------------------------
-Upload Without a Mac
 
-Option A: iCloud Web (Easiest)
-	1.	Go to iCloud.com/photos.
-	2.	Log in with your Apple ID.
-	3.	Click the Upload button (top-right).
-	4.	Select everything in your merged/ folder.
-	5.	Wait for upload → photos & videos will appear in the iPhone/iPad Photos app as Live Photos.
+🚀 How to Upload Merged Live Photos to Apple Photos (Without macOS)
+
+Once you’ve used Live Photo Merger to create .JPG + .MOV pairs in the merged/ folder, follow one of these methods to upload them into Apple Photos (iCloud Photos).
 
 ⸻
 
-Option B: iCloud for Windows
-	1.	Install iCloud for Windows.
+Method 1: iCloud Web (Easiest, Works Anywhere)
+	1.	Open a web browser and go to iCloud.com/photos.
 	2.	Sign in with your Apple ID.
-	3.	Enable iCloud Photos in the settings.
-	4.	Copy your merged/ folder into the iCloud Photos > Uploads folder in File Explorer.
-	5.	They’ll sync automatically.
+	3.	Click the Upload button (top-right).
+	4.	Select all files in your merged/ folder.
+	5.	Wait for the upload to finish → your Live Photos will appear in the Photos app on iPhone/iPad.
 
 ⸻
 
-Option C: iPhone/iPad Direct Import
-	1.	Transfer the merged/ folder to your iPhone/iPad (via USB, AirDrop-like tools, or cloud storage).
-	2.	Open the Files app.
-	3.	Select the JPG + MOV pairs → Share → Save to Photos.
-	4.	They’ll appear as Live Photos inside Apple Photos.
+Method 2: iCloud for Windows (Best for Large Uploads)
+	1.	Download and install iCloud for Windows.
+	2.	Open the app and sign in with your Apple ID.
+	3.	In iCloud settings, check Photos → enable iCloud Photos.
+	4.	Open File Explorer → find the iCloud Photos folder.
+	5.	Copy your merged/ folder into the Uploads subfolder.
+	6.	Files will sync automatically in the background.
 
 ⸻
 
-✅ Important Notes
-	•	Apple Photos requires JPG + MOV pairs with the same filename (IMG_1234.JPG + IMG_1234.MOV) → your tool already handles this.
-	•	JSON files from Google Photos are not needed for Apple Photos.
-	•	Large uploads (tens of GBs) are usually smoother with iCloud for Windows instead of iCloud web.
+Method 3: iPhone/iPad Direct Import
+	1.	Transfer your merged/ folder to your iPhone/iPad (via cable, AirDrop-alternative, or cloud storage).
+	2.	Open the Files app and locate the folder.
+	3.	Select the .JPG + .MOV pairs.
+	4.	Tap Share → choose Save to Photos.
+	5.	The Live Photos will be added to your library and synced with iCloud (if enabled).
+
+⸻
+
+✅ Tips & Notes
+	•	Make sure .JPG and .MOV filenames match exactly (e.g., IMG_1234.JPG ↔ IMG_1234.MOV).
+	•	JSON files from Google Photos are not needed.
+	•	For very large libraries, Method 2 (Windows app) is more stable than the iCloud website.
+
+⸻
+
+👉 After uploading, you’ll be able to browse, edit, and share your Live Photos in the Apple Photos app across all your devices.
